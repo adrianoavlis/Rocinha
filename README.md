@@ -4,11 +4,11 @@
 ## Índice
 - [Visão Geral](#visão-geral)
 - [Seções do Site](#seções-do-site)
+- [Link do GitHub Pages](#link-do-github-pages)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar Localmente](#como-executar-localmente)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
-- [Agradecimentos](#agradecimentos)
 
 ## Visão Geral
 Este repositório contém o código-fonte de um site dedicado à Favela da Rocinha, uma das maiores comunidades do Rio de Janeiro, Brasil. O site oferece informações detalhadas sobre a história, cultura, economia e vida comunitária da Rocinha, além de recursos de mídia e contato.
@@ -22,6 +22,9 @@ O site está dividido nas seguintes seções principais:
 - **Economia**: Detalhes sobre a economia local e o empreendedorismo.
 - **Mídia**: Galeria de mídia relacionada à Rocinha.
 - **Contato**: Informações de contato e formulários.
+
+## Link do GitHub Pages
+Acesse o site hospedado no GitHub Pages através do link: [https://adrianoavlis.github.io/Rocinha](https://adrianoavlis.github.io/Rocinha)
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura do site.
@@ -60,11 +63,3 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga os passo
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-## Agradecimentos
-- A todos os moradores da Rocinha que compartilham suas histórias e cultura.
-- Aos desenvolvedores e contribuidores do projeto.
-- A todas as organizações que apoiam o desenvolvimento comunitário na Rocinha.
-
----
-
-Sinta-se à vontade para modificar e expandir este README para melhor se adequar às necessidades específicas do seu projeto.
